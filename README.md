@@ -3,6 +3,10 @@ A fitness logger, with a main function of writing to .txt files concerned with t
  
 ***
 
+To use, simply download FitnessLogManager.exe along with the src folder in the same directory. Source code, FitnessLogManager.py, is available also available for you to check out.
+
+***
+
 This application was made with Reddit's bodyweight Routine in mind! Check out their workout program at:
 
 https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
