@@ -3,7 +3,7 @@ A fitness logger, with a main function of writing to .txt files concerned with t
  
 ***
 
-To use, simply download FitnessLogManager.exe along with the src folder in the same directory. Source code, FitnessLogManager.py, is available also available for you to check out.
+To use, simply download FitnessLogManager.exe along with the src folder in the same directory. The source code, FitnessLogManager.py, is also available for you to check out.
 
 ***
 
