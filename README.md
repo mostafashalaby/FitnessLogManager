@@ -3,7 +3,7 @@ A fitness logger, with a main function of writing to .txt files concerned with t
  
 ***
 
-This application was made with Reddit's bodyweight Routine in mind! Check their workout program at:
+This application was made with Reddit's bodyweight Routine in mind! Check out their workout program at:
 
 https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
 
