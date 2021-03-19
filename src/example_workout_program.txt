@@ -1,0 +1,15 @@
+First Pair: <-- This constitutes a pair 
+
+1- Chin-Ups, 5-8 reps           
+2- Tricep Extensions, 5-8 reps  <--  This constitutes a subset
+
+Second Pair:
+
+1- Pull-ups, 5-8 reps
+2- Pistol Squat, 5-8 reps
+
+Core Triplet:
+
+1- Straight Hanging leg raises, 8-12 reps
+2- Copenhagen Plank, 10-30 seconds each side
+3- Arch Body hold, 8-12 reps

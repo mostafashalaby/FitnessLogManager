@@ -1,0 +1,8 @@
+Example of a log:
+
+Monday 30/11/2020 <-- This constitutes the header
+Hi mom I'm in a random project's comments :D <-- Comments on the workout (optional)
+8 8 8, 8 8 8                 --|
+8 8 8, 8 8 8                   |
+8 8 8, 8 8 8                   | <-- This constitutes the body
+12 12 12, 30 30 30, 12 12 12 --| 
