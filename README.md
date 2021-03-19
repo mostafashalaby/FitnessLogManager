@@ -13,14 +13,14 @@ If you are looking for a workout program for lifting weights, I would heavily re
 
 https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/
 
-Hope you enjoy this little project! Please do send me suggestions and advice at https://github.com/mostafashalaby for improvements I could add.
+Hope you enjoy this little project! Please do send me suggestions at https://github.com/mostafashalaby for features you would like to see added, or for any issues you may encounter.
 
 ***
 
 If you want to get an idea of what a workout program or log looks like, check out the example_log.txt and example_workout_program.txt files in the src folder.
 
 ***
-Simple breakdown of each option present in MyFitnessLogger:
+Simple breakdown of each option present in FitnessLogManager:
 
 (1) Read the logger
 
@@ -40,7 +40,7 @@ Adjusts the current workout program being followed.
 
 (5) Remove entries
 
-Removed the last x enteries in the logger file, where x is a number inputted by the user. A backup.txt file is created to store the old version before the removal, just in case.
+Removes the last x enteries in the logger file, where x is a number inputted by the user. A backup.txt file is created to store the old version before the removal, just in case.
 
 (6) Read user specifications
 
